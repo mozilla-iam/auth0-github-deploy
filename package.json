@@ -1,7 +1,7 @@
 {
-  "name": "auth0-github-deploy-extension",
+  "name": "auth0-github-deploy-extension-moz",
   "version": "2.0.4",
-  "description": "Auth0 GitHub Deployment Extension",
+  "description": "Auth0 GitHub Deployment Extension (Mozilla)",
   "engines": {
     "node": "5.9.0"
   },

@@ -1,6 +1,6 @@
 {
   "title": "GitHub Deployments",
-  "name": "auth0-github-deploy",
+  "name": "auth0-github-deploy-mozilla",
   "version": "2.0.4",
   "author": "auth0",
   "description": "This extension gives Auth0 customers the possibility to deploy Pages, Rules and Custom Database Connections from GitHub.",
